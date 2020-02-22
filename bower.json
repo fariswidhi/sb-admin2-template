@@ -1,0 +1,30 @@
+{
+  "name": "sb-admin2",
+  "authors": [
+    "faris <fariswidhiarta123@gmail.com>"
+  ],
+  "description": "sb admin 2 template",
+  "main": "",
+  "keywords": [
+    "sb",
+    "admin",
+    "2"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.0",
+    "chart.js": "^2.9.3",
+    "datatables.net": "^1.10.20",
+    "font-awesome-5": "^5.12.1",
+    "jquery": "^3.4.1",
+    "jquery.easing": "^1.3.1"
+  }
+}
